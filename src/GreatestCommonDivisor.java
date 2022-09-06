@@ -13,7 +13,7 @@ public class GreatestCommonDivisor {
             }
         }
         System.out.println("Enter first Number : "+n1);
-        System.out.println("Enter second Number ; "+n2);
+        System.out.println("Enter second Number : "+n2);
         System.out.println("GCD : "+gcd);
     }
 }
