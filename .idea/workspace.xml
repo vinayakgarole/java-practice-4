@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84e36fe8-bd48-4999-a153-2bd09b7e2af0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BinaryToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HexadecimalToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OctalToDecimal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BinaryToDecimal">
+  <component name="RunManager" selected="Application.HexadecimalToDecimal">
     <configuration name="BinaryToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinaryToDecimal" />
       <module name="java-practice-4" />
@@ -51,8 +52,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HexadecimalToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HexadecimalToDecimal" />
+      <module name="java-practice-4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OctalToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OctalToDecimal" />
+      <module name="java-practice-4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="octalToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="octalToDecimal" />
+      <module name="java-practice-4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HexadecimalToDecimal" />
+        <item itemvalue="Application.OctalToDecimal" />
+        <item itemvalue="Application.octalToDecimal" />
         <item itemvalue="Application.BinaryToDecimal" />
         <item itemvalue="Application.GreatestCommonDivisor" />
       </list>
