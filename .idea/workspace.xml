@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84e36fe8-bd48-4999-a153-2bd09b7e2af0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DecimalToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecimalToOctal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryToDecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryToDecimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GreatestCommonDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GreatestCommonDivisor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +41,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DecimalToBinary">
+  <component name="RunManager" selected="Application.DecimalToOctal">
     <configuration name="BinaryToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinaryToDecimal" />
       <module name="java-practice-4" />
@@ -53,6 +51,13 @@
     </configuration>
     <configuration name="DecimalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DecimalToBinary" />
+      <module name="java-practice-4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecimalToOctal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecimalToOctal" />
       <module name="java-practice-4" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,20 +77,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OctalToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OctalToDecimal" />
-      <module name="java-practice-4" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DecimalToOctal" />
         <item itemvalue="Application.DecimalToBinary" />
         <item itemvalue="Application.BinaryToDecimal" />
         <item itemvalue="Application.GreatestCommonDivisor" />
         <item itemvalue="Application.HexadecimalToDecimal" />
-        <item itemvalue="Application.OctalToDecimal" />
       </list>
     </recent_temporary>
   </component>
