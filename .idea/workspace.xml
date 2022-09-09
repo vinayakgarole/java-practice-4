@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84e36fe8-bd48-4999-a153-2bd09b7e2af0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OctalToBinary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryToOctal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryToOctal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GreatestCommonDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GreatestCommonDivisor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HexadecimalToDecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HexadecimalToDecimal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,21 +42,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OctalToBinary">
-    <configuration name="BinaryToOctal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinaryToOctal" />
-      <module name="java-practice-4" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DecimalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecimalToBinary" />
-      <module name="java-practice-4" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.QuadrantsOfGivenCoOrdinate">
     <configuration name="DecimalToHexadecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DecimalToHexadecimal" />
       <module name="java-practice-4" />
@@ -63,8 +50,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecimalToOctal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecimalToOctal" />
+    <configuration name="GreatestCommonDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GreatestCommonDivisor" />
+      <module name="java-practice-4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HexadecimalToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HexadecimalToDecimal" />
       <module name="java-practice-4" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,13 +71,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QuadrantsOfGivenCoOrdinate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuadrantsOfGivenCoOrdinate" />
+      <module name="java-practice-4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OctalToBinary" />
-        <item itemvalue="Application.BinaryToOctal" />
+        <item itemvalue="Application.QuadrantsOfGivenCoOrdinate" />
+        <item itemvalue="Application.GreatestCommonDivisor" />
+        <item itemvalue="Application.HexadecimalToDecimal" />
         <item itemvalue="Application.DecimalToHexadecimal" />
-        <item itemvalue="Application.DecimalToOctal" />
-        <item itemvalue="Application.DecimalToBinary" />
+        <item itemvalue="Application.OctalToBinary" />
       </list>
     </recent_temporary>
   </component>

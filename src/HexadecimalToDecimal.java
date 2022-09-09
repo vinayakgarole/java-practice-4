@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class HexadecimalToDecimal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -15,7 +14,7 @@ public class HexadecimalToDecimal {
             temp = temp / 10;
             d = d + r * (int) Math.pow(16, i++);
         }
-        System.out.println("Decimal of " + num + " is " + d);
+        System.out.println("Decimal of " +num+ " is " + d);
     }
 }
 
